@@ -4,6 +4,6 @@
 
 <br><br>
 
-<img src="./gato.gif" width="180" alt="Gato animado">
+<img src="./gato.png.gif" width="180" alt="Gato animado">
 
 </div>
