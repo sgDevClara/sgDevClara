@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sgDevClara/sgDevClara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./images/banner.png" width="100%" alt="Banner">
 
-Here are some ideas to get you started:
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="./images/gato.gif" width="180" alt="Gato">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=red">
+<img src="https://img.shields.io/badge/Flask-151515?style=for-the-badge&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-151515?style=for-the-badge&logo=html5&logoColor=red">
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=sgDevClara&show_icons=true&theme=transparent&title_color=cc334d&icon_color=cc334d&text_color=c9c9d1&border_color=44202b">
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgDevClara&layout=compact&theme=transparent&title_color=cc334d&text_color=c9c9d1&border_color=44202b">
+
+</div>
