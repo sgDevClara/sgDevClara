@@ -1,3 +1,4 @@
+
 <div align="center">
 
   <img src="./banner.png" width="100%" alt="Banner">
@@ -8,38 +9,36 @@
 
   <br><br>
 
-  <h1>Mary</h1>
+  <h1>𝑴𝒂𝒓𝒚</h1>
 
-  <p>Estudante de programação</p>
+  <p>𝑬𝒔𝒕𝒖𝒅𝒂𝒏𝒕𝒆 𝒅𝒆 𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒂𝒄̧𝒂̃𝒐</p>
 
-  <p>Aprendendo Python e Flask</p>
+  <p>𝑭𝒐𝒄𝒐 𝒆𝒎 𝑷𝒚𝒕𝒉𝒐𝒏 𝒆 𝒅𝒆𝒔𝒆𝒏𝒗𝒐𝒍𝒗𝒊𝒎𝒆𝒏𝒕𝒐 𝒅𝒆 𝒑𝒓𝒐𝒋𝒆𝒕𝒐𝒔</p>
 
   <br>
 
-  <h2>Sobre mim</h2>
+  <h2>𝑺𝒐𝒃𝒓𝒆 𝒎𝒊𝒎</h2>
 
   <p>
-    Idade: 18 anos<br>
-    Cidade: São Paulo - SP<br>
-    Objetivo: Foco, dedicação e aprendizado
+    𝑰𝒅𝒂𝒅𝒆: 18 anos<br>
+    𝑪𝒊𝒅𝒂𝒅𝒆: São Paulo - SP<br>
+    𝑶𝒃𝒋𝒆𝒕𝒊𝒗𝒐: Foco, dedicação e aprendizado
   </p>
 
   <br>
 
-  <h2>Tecnologias</h2>
+  <h2>𝑻𝒆𝒄𝒏𝒐𝒍𝒐𝒈𝒊𝒂𝒔</h2>
 
   <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white" alt="Python">
 
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask">
+  <br><br>
+
+  <h2>𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔</h2>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true&title_color=9b0000&icon_color=9b0000" alt="Estatísticas do GitHub">
 
   <br><br>
 
-  <h2>GitHub Stats</h2>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=sgDevClara&show_icons=true&theme=transparent&hide_border=true" alt="Estatísticas do GitHub">
-
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgDevClara&layout=compact&theme=transparent&hide_border=true" alt="Linguagens mais utilizadas">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgDevClara&layout=compact&theme=transparent&hide_border=true&title_color=9b0000" alt="Linguagens mais utilizadas">
 
 </div>
