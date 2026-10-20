@@ -36,10 +36,10 @@
 
   <h2>GitHub Stats</h2>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=sgDevClara&show_icons=true&theme=transparent&hide_border=true" alt="Estatísticas do GitHub">
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true" alt="Linguagens mais utilizadas">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgDevClara&layout=compact&theme=transparent&hide_border=true" alt="Linguagens mais utilizadas">
 
 </div>
