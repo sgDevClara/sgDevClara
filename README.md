@@ -35,7 +35,7 @@
 
   <h2>𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔</h2>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true&title_color=9b0000&icon_color=9b0000" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=sgDevClara&show_icons=true&theme=transparent&hide_border=true&title_color=9b0000&icon_color=9b0000" alt="Estatísticas do GitHub">
 
   <br><br>
 
