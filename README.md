@@ -35,10 +35,10 @@
 
   <h2>𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔</h2>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=sgDevClara&show_icons=true&theme=transparent&hide_border=true&title_color=9b0000&icon_color=340404" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=sgDevClara&show_icons=true&theme=transparent&hide_border=true&title_color=340404&icon_color=340404" alt="Estatísticas do GitHub">
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgDevClara&layout=compact&theme=transparent&hide_border=true&title_color=9b0000" alt="Linguagens mais utilizadas">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgDevClara&layout=compact&theme=transparent&hide_border=true&title_color=340404" alt="Linguagens mais utilizadas">
 
 </div>
